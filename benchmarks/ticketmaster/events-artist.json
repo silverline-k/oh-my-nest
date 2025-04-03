@@ -1,0 +1,676 @@
+{
+    "total": 29,
+    "totalLocal": 0,
+    "totalInternational": 0,
+    "events": [
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "0E006248D58938F4",
+            "discoveryId": "vvG1zZb0N4xKNV",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-07-14T23:00:00Z",
+                "onsaleDate": "2025-02-21T17:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-19T17:00:00Z",
+                    "endDateTime": "2025-02-20T16:00:00Z"
+                },
+                {
+                    "name": "BeyHive VIP Package Presale",
+                    "startDateTime": "2025-02-19T17:00:00Z",
+                    "endDateTime": "2025-02-20T16:00:00Z"
+                },
+                {
+                    "name": "Citi® Cardmember Presale",
+                    "startDateTime": "2025-02-20T17:00:00Z",
+                    "endDateTime": "2025-02-21T16:00:00Z"
+                },
+                {
+                    "name": "Citi® Cardmember VIP Presale",
+                    "startDateTime": "2025-02-20T17:00:00Z",
+                    "endDateTime": "2025-02-21T16:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Presale Tickets",
+                    "startDateTime": "2025-02-20T17:00:00Z",
+                    "endDateTime": "2025-02-21T16:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Select Seats",
+                    "startDateTime": "2025-02-21T17:00:00Z",
+                    "endDateTime": "2025-06-17T02:00:00Z"
+                },
+                {
+                    "name": "VIP Packages Onsale",
+                    "startDateTime": "2025-02-21T17:00:00Z",
+                    "endDateTime": "2025-07-08T02:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-atlanta-georgia-07-14-2025/event/0E006248D58938F4?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "Atlanta",
+                "name": "Mercedes-Benz Stadium",
+                "country": "US",
+                "state": "GA",
+                "url": "https://www.ticketmaster.com/mercedesbenz-stadium-tickets-atlanta/venue/115751",
+                "latitude": 33.75538900,
+                "longitude": -84.40082300,
+                "addressLineOne": "1 AMB Drive NW",
+                "code": "30313"
+            },
+            "timeZone": "America/New_York",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": true,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "17006229F3BD9B31",
+            "discoveryId": "1A9ZkFtGkdSR_is",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-07-26T02:00:00Z",
+                "onsaleDate": "2025-03-25T19:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "Citi® Cardmember Preferred Tickets",
+                    "startDateTime": "2025-03-25T19:00:00Z",
+                    "endDateTime": "2025-06-28T05:00:00Z"
+                },
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-03-20T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Citi® Cardmember Presale",
+                    "startDateTime": "2025-03-21T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Presale Tickets",
+                    "startDateTime": "2025-03-21T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-03-24T19:00:00Z",
+                    "endDateTime": "2025-03-25T18:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Select Seats",
+                    "startDateTime": "2025-03-25T19:00:00Z",
+                    "endDateTime": "2025-06-28T05:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-las-vegas-nevada-07-25-2025/event/17006229F3BD9B31?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "Las Vegas",
+                "name": "Allegiant Stadium",
+                "country": "US",
+                "state": "NV",
+                "url": "https://www.ticketmaster.com/allegiant-stadium-tickets-las-vegas/venue/189482",
+                "latitude": 36.09090000,
+                "longitude": -115.18330000,
+                "addressLineOne": "3333 Al Davis Way",
+                "code": "89118"
+            },
+            "timeZone": "America/Los_Angeles",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": true,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "17006253ECF68759",
+            "discoveryId": "1A9ZkaKGkdiWIq_",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-07-27T02:00:00Z",
+                "onsaleDate": "2025-03-25T19:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "Citi® Cardmember Preferred Tickets",
+                    "startDateTime": "2025-03-25T19:00:00Z",
+                    "endDateTime": "2025-06-28T05:00:00Z"
+                },
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-03-20T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Citi® Cardmember Presale",
+                    "startDateTime": "2025-03-21T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Presale Tickets",
+                    "startDateTime": "2025-03-21T19:00:00Z",
+                    "endDateTime": "2025-03-24T05:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-03-24T19:00:00Z",
+                    "endDateTime": "2025-03-25T18:00:00Z"
+                },
+                {
+                    "name": "Verizon Access Select Seats",
+                    "startDateTime": "2025-03-25T19:00:00Z",
+                    "endDateTime": "2025-06-28T05:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.com/beyonce-cowboy-carter-tour-las-vegas-nevada-07-26-2025/event/17006253ECF68759?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "Las Vegas",
+                "name": "Allegiant Stadium",
+                "country": "US",
+                "state": "NV",
+                "url": "https://www.ticketmaster.com/allegiant-stadium-tickets-las-vegas/venue/189482",
+                "latitude": 36.09090000,
+                "longitude": -115.18330000,
+                "addressLineOne": "3333 Al Davis Way",
+                "code": "89118"
+            },
+            "timeZone": "America/Los_Angeles",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": true,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "35006190BBD74300",
+            "discoveryId": "1AgZkk8GkeDgVGZ",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-05T16:00:00Z",
+                "onsaleDate": "2025-02-14T12:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T12:00:00Z",
+                    "endDateTime": "2025-02-12T11:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T10:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Mastercard Presale",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T12:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-05-06-2025/event/35006190BBD74300?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "3500623FE7FB9A6C",
+            "discoveryId": "1AdfZbNGkTEXyti",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-07T16:00:00Z",
+                "onsaleDate": "2025-02-14T12:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T12:00:00Z",
+                    "endDateTime": "2025-02-12T11:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T10:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "MasterCard Presale",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T12:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-07-06-2025/event/3500623FE7FB9A6C?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "3500623FE9C49A75",
+            "discoveryId": "1AdfZbNGkTtsatg",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-10T16:00:00Z",
+                "onsaleDate": "2025-02-14T12:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T12:00:00Z",
+                    "endDateTime": "2025-02-12T11:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T10:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "MasterCard Presale",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T12:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-10-06-2025/event/3500623FE9C49A75?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "3500623FECA69A81",
+            "discoveryId": "1AdfZbNGkTittnv",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-12T16:00:00Z",
+                "onsaleDate": "2025-02-14T12:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T12:00:00Z",
+                    "endDateTime": "2025-02-12T11:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T10:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "MasterCard Presale",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T12:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-12-06-2025/event/3500623FECA69A81?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "35006246B87C2664",
+            "discoveryId": "1AgZkakGkezLe_0",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-14T16:00:00Z",
+                "onsaleDate": "2025-02-14T14:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T14:00:00Z",
+                    "endDateTime": "2025-02-12T13:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Mastercard Presale",
+                    "startDateTime": "2025-02-12T14:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T14:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-14-06-2025/event/35006246B87C2664?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        },
+        {
+            "title": "Beyoncé: COWBOY CARTER TOUR",
+            "id": "35006246B8A42697",
+            "discoveryId": "1AgZkakGkezteQ9",
+            "dates": {
+                "dateDisplay": "showDateTime",
+                "startDate": "2025-06-16T16:00:00Z",
+                "onsaleDate": "2025-02-14T14:00:00Z",
+                "spanMultipleDays": false
+            },
+            "presaleDates": [
+                {
+                    "name": "BeyHive Presale",
+                    "startDateTime": "2025-02-11T14:00:00Z",
+                    "endDateTime": "2025-02-12T13:00:00Z"
+                },
+                {
+                    "name": "Priority from O2",
+                    "startDateTime": "2025-02-12T12:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Mastercard Presale",
+                    "startDateTime": "2025-02-12T14:00:00Z",
+                    "endDateTime": "2025-02-13T11:00:00Z"
+                },
+                {
+                    "name": "Artist Presale",
+                    "startDateTime": "2025-02-13T14:00:00Z",
+                    "endDateTime": "2025-02-13T22:00:00Z"
+                }
+            ],
+            "url": "https://www.ticketmaster.co.uk/beyonce-cowboy-carter-tour-london-16-06-2025/event/35006246B8A42697?ot=63",
+            "partnerEvent": false,
+            "isPartner": false,
+            "showTmButton": true,
+            "venue": {
+                "city": "London",
+                "name": "Tottenham Hotspur Stadium",
+                "country": "GB",
+                "url": "https://www.ticketmaster.co.uk/tottenham-hotspur-stadium-tickets-london/venue/434396",
+                "latitude": 51.60081900,
+                "longitude": -0.06787000,
+                "addressLineOne": "782 High Rd",
+                "code": "N17 0BX"
+            },
+            "timeZone": "Europe/London",
+            "cancelled": false,
+            "postponed": false,
+            "rescheduled": false,
+            "tba": false,
+            "local": false,
+            "sameRegion": false,
+            "soldOut": false,
+            "limitedAvailability": false,
+            "ticketingStatus": "UNKNOWN",
+            "eventChangeStatus": "none",
+            "virtual": false,
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://www.ticketmaster.com/beyonce-tickets/artist/894191"
+                }
+            ],
+            "majorCategory": {
+                "id": "KZFzniwnSyZfZ7v7nJ",
+                "canonicalUrls": {},
+                "major": true
+            }
+        }
+    ],
+    "singleVenue": false
+}

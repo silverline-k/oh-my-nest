@@ -1,8 +1,8 @@
-import { plainToInstance } from 'class-transformer';
+import { plainToInstance, Type } from 'class-transformer';
 import {
   IsString,
   IsBoolean,
-  IsPort,
+  IsNumber,
   validateSync,
   ValidateNested,
 } from 'class-validator';
@@ -14,7 +14,7 @@ export class DatabaseConfig {
   @IsString()
   host: string;
 
-  @IsPort()
+  @IsNumber()
   port: number;
 
   @IsString()
@@ -35,13 +35,12 @@ export class DatabaseConfig {
 
 export class Config {
   @ValidateNested()
+  @Type(() => DatabaseConfig)
   database: DatabaseConfig;
 }
 
 export function validate(config: Record<string, any>): void {
-  const validatedConfig = plainToInstance(Config, config, {
-    excludeExtraneousValues: true,
-  });
+  const validatedConfig = plainToInstance(Config, config);
 
   const errors = validateSync(validatedConfig, {
     skipMissingProperties: false,

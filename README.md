@@ -27,7 +27,7 @@ user_authorization {
   timestamp created_at
   timestamp expires_at
 }
-login_history {
+user_login_history {
   string id
   string user_id
   string ip_address

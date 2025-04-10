@@ -16,6 +16,7 @@ const databaseConfigInitializer = (
     migrations: ['dist/database/migrations/*.js'],
     synchronize: databaseConfig.synchronize,
     logging: databaseConfig.logging,
+    timezone: 'Z',
   };
 };
 

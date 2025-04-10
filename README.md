@@ -14,7 +14,6 @@ users {
   string id
   string email
   string password
-  string name
   string nickname
   timestamp created_at
   timestamp updated_at
@@ -40,10 +39,4 @@ email_verifications {
   number code
   timestamp created_at
 }
-
-%% EVENT {
-%%   string id
-%%   string title
-%%   string description
-%% }
 ```
